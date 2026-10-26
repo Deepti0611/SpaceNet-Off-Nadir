@@ -1,0 +1,38 @@
+# =========================
+# SpaceNet raw / dataset data
+# =========================
+
+*.tar.gz
+
+dataset/images/
+dataset/masks/
+raw_data/
+
+# =========================
+# Large trained model files
+# =========================
+
+*.pth
+*.pt
+
+# =========================
+# Python generated files
+# =========================
+
+__pycache__/
+*.pyc
+
+# =========================
+# Jupyter / Python temporary files
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+/Pan-Sharpen_*.tif
+/Pan-Sharpen_*.tiff
