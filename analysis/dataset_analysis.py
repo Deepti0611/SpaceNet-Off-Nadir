@@ -38,9 +38,10 @@ results = []
 for collection, angle in collections:
 
     csv_path = os.path.join(
-        "summaryData",
-        f"{collection}_Train.csv"
-    )
+    "raw_data",
+    "summaryData",
+    f"{collection}_Train.csv"
+)
 
     df = pd.read_csv(csv_path)
 
