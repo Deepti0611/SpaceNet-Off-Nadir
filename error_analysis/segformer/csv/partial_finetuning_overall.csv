@@ -1,0 +1,2 @@
+Model,Checkpoint,Checkpoint_Epoch,Test_Samples,TP,FP,FN,TN,IoU,Dice,F1,Precision,Recall,FPR,FNR
+Partial Fine-Tuning,models/segformer_partial/checkpoints_partial/segformer_partial_best.pth,8,18,164073,227752,92613,4234154,0.3386873036384429,0.5059991272314579,0.5059991272314579,0.41874050915587313,0.6391973072158201,0.05104365712769386,0.36080269278417987

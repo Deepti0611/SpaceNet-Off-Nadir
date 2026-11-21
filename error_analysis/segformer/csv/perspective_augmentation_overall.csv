@@ -1,0 +1,2 @@
+Model,Checkpoint,Checkpoint_Epoch,Test_Samples,TP,FP,FN,TN,IoU,Dice,F1,Precision,Recall,FPR,FNR
+Perspective Augmentation,models/segformer_perspective/checkpoints/segformer_perspective_best.pth,10,18,154809,210613,101877,4251293,0.33128468068624156,0.4976917191227247,0.4976917191227247,0.42364444395794454,0.6031065192491994,0.04720247356174693,0.3968934807508006

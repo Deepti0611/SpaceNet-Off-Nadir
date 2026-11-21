@@ -1,0 +1,2 @@
+Model,Checkpoint,Checkpoint_Epoch,Test_Samples,TP,FP,FN,TN,IoU,Dice,F1,Precision,Recall,FPR,FNR
+CBAM + Focal Loss + Dice,models/segformer_cbam_focal/checkpoints/segformer_cbam_focal_best.pth,8,18,142819,158379,113867,4303527,0.34408827533036995,0.5120024951423593,0.5120024951423593,0.4741698152046162,0.5563957520082903,0.035495817258364475,0.4436042479917097

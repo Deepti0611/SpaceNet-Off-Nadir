@@ -1,0 +1,2 @@
+Model,Checkpoint,Checkpoint_Epoch,Test_Samples,TP,FP,FN,TN,IoU,Dice,F1,Precision,Recall,FPR,FNR
+Linear Probing,models/segformer_linear_probe/checkpoints_linear_probe/segformer_linear_probe_best.pth,9,18,75489,29910,181197,4431996,0.26339865176066657,0.41696839139980946,0.41696839139980946,0.7162212165200809,0.29409083471634606,0.006703413294677207,0.705909165283654

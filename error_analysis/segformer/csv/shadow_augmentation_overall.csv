@@ -1,0 +1,2 @@
+Model,Checkpoint,Checkpoint_Epoch,Test_Samples,TP,FP,FN,TN,IoU,Dice,F1,Precision,Recall,FPR,FNR
+Shadow Augmentation,models/segformer_shadow/checkpoints/segformer_shadow_best.pth,9,18,160414,114256,96272,4347650,0.4324503561203638,0.6037910553376644,0.6037910553376644,0.5840244657225033,0.6249425367959297,0.025606993961773288,0.37505746320407035

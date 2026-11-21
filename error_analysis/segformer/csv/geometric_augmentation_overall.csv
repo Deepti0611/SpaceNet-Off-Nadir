@@ -1,0 +1,2 @@
+Model,Checkpoint,Checkpoint_Epoch,Test_Samples,TP,FP,FN,TN,IoU,Dice,F1,Precision,Recall,FPR,FNR
+Geometric Augmentation,models/segformer_geometric/checkpoints/segformer_geometric_best.pth,10,18,164635,126698,92051,4335208,0.429425849800722,0.60083683229961,0.60083683229961,0.5651093422303687,0.6413867526861613,0.0283954883854568,0.3586132473138387

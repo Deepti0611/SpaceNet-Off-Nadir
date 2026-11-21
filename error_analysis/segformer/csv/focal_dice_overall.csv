@@ -1,0 +1,2 @@
+Model,Checkpoint,Checkpoint_Epoch,Test_Samples,TP,FP,FN,TN,IoU,Dice,F1,Precision,Recall,FPR,FNR
+Focal Loss + Dice,models/segformer_focal_dice/checkpoints/segformer_focal_best.pth,6,18,165292,229120,91394,4232786,0.3402428129747265,0.5077330908711131,0.5077330908711131,0.4190846120300599,0.6439463001488199,0.051350252560228744,0.35605369985118
